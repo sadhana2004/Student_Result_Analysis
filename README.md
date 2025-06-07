@@ -32,4 +32,4 @@ Run the Analysis: Open the Google Colab SRA.ipynb to run the analysis.
 Explore the Results: The notebook includes detailed explanations and visualizations to help understand customer spending behaviors.
 
 # Contact
-If you have any questions or feedback, please feel free to reach out via pujithajonnalagadda.4444@gmail.com.
+If you have any questions or feedback, please feel free to reach out via a.sadhana444@gmail.com
